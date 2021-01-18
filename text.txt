@@ -1,0 +1,6 @@
+git init
+git remote add origin
+git commit -m ""
+
+touch README.md
+touch .gitignore
